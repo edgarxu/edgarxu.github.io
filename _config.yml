@@ -5,17 +5,8 @@ show_downloads: false
 google_analytics: UA-120902316-1
 remote_theme: gebeto/researcher
 
-plugins:
-  - jekyll-seo-tag
-
-nav:
- - name: "Contact"
-   link: "contact"
- - name: "Resume"
-   link: "resume.pdf" # put your files in the assets directory
- - name: "About"
-   link: "/researcher/"
-
-
 footer: "Page design by Ankit Sultana"
 footer_url: "https://github.com/ankitsultana"
+
+plugins:
+  - jekyll-seo-tag
