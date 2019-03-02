@@ -7,14 +7,15 @@
 
 {% seo %}
 
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <!-- <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'> -->
+    {% include fonts.html %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 </head>
 <body>
     <div class="wrapper">
         <header class="navbar">
-            <div class="container">
+            <nav class="container" role="navigation" aria-label="Main navigation">
                 <a class="navbar-title alignable pull-left" href="{{ "/" | absolute_url }}">{{ site.title }}</a>
                 {% if site.show_downloads %}
                 <div class="downloads">
@@ -23,15 +24,9 @@
                     <a class="downloads-item" href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a>
                 </div>
                 {% endif %}
-                <ul id="navlist" class="navbar-list">
-                    {% for navItem in site.nav %}
-                    <li class="navbar-item">
-                        <a href="{{ navItem.link }}">{{ navItem.name }}</a>
-                        {% if forloop.last == false %}/{% endif %}
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
+
+                {% include nav.html %}
+            </nav>
         </header>
 
         <main class="content">

@@ -1,5 +1,9 @@
 @import "rouge-github";
-@import "vars";
+@import "variables";
+
+@import "typography";
+@import "tables";
+
 
 /*
  * Basic
@@ -13,7 +17,7 @@ html {
 
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Inconsolata", Andale Mono, Arial, sans-serif;
     height: 100%;
 }
 
@@ -69,6 +73,10 @@ hr {
 
         a {
             padding: 0px 10px;
+
+            &.active {
+                opacity: 0.5;
+            }
         }
     }
 }
@@ -94,7 +102,7 @@ hr {
 /* Divs */
 
 .container {
-    max-width: $max-width;
+    max-width: $lg-width;
     margin: auto;
 }
 
@@ -112,7 +120,7 @@ hr {
 
 @media (max-width: 800px) {
     .container {
-        max-width: $med-width;
+        max-width: $md-width;
         transition: 0.3s ease all;
     }
 }
@@ -209,10 +217,3 @@ pre {
         }
     }
 }
-
-
-
-
-
-@import "typography";
-@import "tables";

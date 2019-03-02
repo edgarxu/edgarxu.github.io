@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Gebeto](https://avatars1.githubusercontent.com/u/13422799?s=150)
 
 ### Large image
 
@@ -121,3 +121,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+### Button.
+
+It is a button element
