@@ -10,3 +10,4 @@ footer_url: "https://github.com/ankitsultana"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-github-metadata
