@@ -129,7 +129,8 @@ hr {
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+        max-width: 100%;
+        padding: 0px 15px;
     }
 
     .navbar-list {
