@@ -1,3 +1,5 @@
+@import "../assets/fonts/fonts.css";
+
 @import "rouge-github";
 @import "variables";
 
@@ -17,7 +19,7 @@ html {
 
 body {
     margin: 0;
-    font-family: "Inconsolata", Andale Mono, Arial, sans-serif;
+    font-family: Sen, sans-serif;
     height: 100%;
 }
 
@@ -44,7 +46,7 @@ hr {
 
 .navbar {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    padding: 20px 0px;
+    padding: 10px 0px;
     // display: flex;
 
     .container {
