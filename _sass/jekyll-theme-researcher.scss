@@ -67,6 +67,7 @@ hr {
 
     &-title {
         font-size: 30px;
+        line-height: 1;
         color: #272727;
     }
 
@@ -153,11 +154,13 @@ hr {
         }
 
         &-title {
-            margin-bottom: 20px;
+            margin-top: 20px;
+            margin-bottom: 10px;
         }
 
         &-list {
-            margin-top: 20px;
+            margin-top: 10px;
+            margin-bottom: 20px;
         }
     }
 }
@@ -199,7 +202,6 @@ pre {
         justify-content: center;
         border-right: 1px solid #e0e0e0;
 
-        // line-height: 1;
         font-size:11px;
         color: #676767;
 
