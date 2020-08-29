@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Performance Engineering (CEPE) at University of Huddersfield. He has worked in the field of machinery condition monitoring for over seven years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
 
-# Research Interest
+## Research Interest
 
 >  Fault Detection and Diagnosis
 >  Signal Processing
 >  System Identification
 >  Online Condition Monitoring System
 
-# Publications - Articles
+## Publications - Articles
 
 1. Y. Xu, D. Zhen, J. X. Gu, K. Rabeyee, F. Chu, F. Gu, and A. D. Ball, ‘Autocorrelated Envelopes for early fault detection of rolling bearings’, Mechanical Systems and Signal Processing, vol. 146, p. 106990, Jan. 2021, doi: 10.1016/j.ymssp.2020.106990.
 2. Y. Xu, C. Fu, N. Hu, B. Huang, F. Gu, and A. D. Ball, ‘A phase linearisation–based modulation signal bispectrum for analysing cyclostationary bearing signals’, Structural Health Monitoring, p. 1475921720949827, Aug. 2020, doi: 10.1177/1475921720949827.
@@ -26,7 +26,7 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 9. Z. Wang, J. Yang, H. Li, D. Zhen, Y. Xu, and F. Gu, ‘Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis’, Energies, vol. 12, no. 17, p. 3279, Aug. 2019, doi: 10.3390/en12173279.
 10. P. A. V. Vuuren, Y. Xu, F. Gu, and A. D. Ball, ‘Monitoring gearbox oil viscosity by means of motor current signal analysis’, International Journal of Condition Monitoring, vol. 8, no. 1, pp. 30–35, Feb. 2018, doi: 10.1784/204764218822441979.
 
-# Publications - Conferences
+## Publications - Conferences
 1. C. Fu, Y. Xu, Y. Yang, F. Gu, and A. Ball, ‘The Uncertain Vibrations of a Rotor Operating with Angular Acceleration Based on Taylor Expansion’, in Advances in Asset Management and Condition Monitoring, Cham, 2020, pp. 1105–1113, doi: 10.1007/978-3-030-57745-2_91.
 2. Y. Xu, Y. Yun, F. Gu, and A. D. Ball, ‘Fault Detection and Diagnosis of IC Engine based Power Trains by IAS Analysis’, in Surveillance, Vishno and AVE conferences, Lyon, France, 2019.
 3. J. Ma, Y. Xu, Z. Shi, B. Huang, F. Gu, and A. D. Ball, ‘Experimental investigation of operational variables influence on the generation of acoustic emission in the shear of oil film’, in Proceedings of 4th International Conference on Maintenance Engineering, Dubai, United Arab Emirates, 2019.
@@ -49,7 +49,7 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 20. N. Wei, F. Gu, T. Wang, G. Li, Y. Xu, L. Yang, and A. Ball, ‘Characterisation of acoustic emissions for the frictional effect in engines using wavelets based multi-resolution analysis’, in Proceedings of the 21st International Conference on Automation and Computing (ICAC), Glasgow, UK, 2015.
 
 
-# Awards
+## Awards
 
 | Year | Award                               | Category |
 |:-----|:------------------------------------|:------------|
