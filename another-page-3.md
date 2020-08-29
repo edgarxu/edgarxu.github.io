@@ -5,8 +5,7 @@ title: About
 nav_order: 3
 ---
 
-## Welcome to another page 3
+## Welcome to my page
 
-_yay_
 
 [back](./)
