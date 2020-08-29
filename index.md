@@ -9,8 +9,11 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 ## Research Interest
 
 >  Fault Detection and Diagnosis
+>  
 >  Signal Processing
+>  
 >  System Identification
+>  
 >  Online Condition Monitoring System
 
 ## Publications - Articles
