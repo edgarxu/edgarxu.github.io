@@ -14,9 +14,13 @@ nav_order: 1
 ## Mailing Address
 
 > T4/08c, Technology Building
+> 
 > University of Huddersfield
+> 
 > Huddersfield
+> 
 > HD1 3DH
+> 
 > United Kingdom
 
 ---
