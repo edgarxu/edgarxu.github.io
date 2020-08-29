@@ -1,12 +1,12 @@
-title: Researcher
+title: Yuandong Xu
 logo: /assets/img/logo.png
-description: Researcher is a theme for GitHub Pages.
+description: Yuandong Xu - GitHub Pages
 show_downloads: false
-google_analytics: UA-120902316-1
+google_analytics: 
 remote_theme: gebeto/researcher
 
-footer: "Page design by Ankit Sultana"
-footer_url: "https://github.com/ankitsultana"
+footer: "Yuandong Xu - GitHub Pages"
+footer_url: "https://edgarxu.github.io/"
 
 plugins:
   - jekyll-seo-tag
