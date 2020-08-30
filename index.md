@@ -10,11 +10,13 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 
 >  Fault Detection and Diagnosis
 >  
+>  Vibroacoustic Testing and Analysis
+>  
 >  Signal Processing
 >  
->  System Identification
+>  Experimental/Operational Modal Analysis
 >  
->  Online Condition Monitoring System
+>  Development of Online Condition Monitoring System
 
 ## Publications - Articles
 
@@ -64,12 +66,11 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 ## Projects
 
 * Intelligent Condition Monitoring System of Marine Powertrains
-* Torsional Vibration of Diesel Engines
-* Vibration based Condition Monitoring of Bearings and Gearboxes
+* Torsional Vibration Analysis of Diesel Engines
+* Vibration based Fault Diagnosis of Bearings and Gearboxes
 * Motor Current Signature Analysis for Induction Machines
 * Vibroacoustic Signals based Lubrication Condition Monitoring of Journal Bearings
-* Investigation of Tribological Responses between Piston Rings and Cylinder Liners using Acoustic Emissions
-* Airborne Acoustics based Gas Turbine Monitoring
+* Investigation of Tribological Responses between Piston-Rings and Cylinder-Liner using Acoustic Emissions
 * Airborne Acoustics based Condition Monitoring of Novel Compressors
 * Experimental/Operational Modal Analysis of Truck Frames
 
