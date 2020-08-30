@@ -60,3 +60,23 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 | 2018 | Best Paper in CM2018/MFPT2018       | Best Paper  |
 | 2016 | Vice Chancellor Research Fee Waiver | Scholarship |
 
+
+## Projects
+
+* Intelligent Condition Monitoring System of Marine Powertrains
+* Torsional Vibration of Diesel Engines
+* Vibration based Condition Monitoring of Bearings and Gearboxes
+* Motor Current Signature Analysis for Induction Machines
+* Vibroacoustic Signals based Lubrication Condition Monitoring of Journal Bearings
+* Investigation of Tribological Responses between Piston Rings and Cylinder Liners using Acoustic Emissions
+* Airborne Acoustics based Gas Turbine Monitoring
+* Airborne Acoustics based Condition Monitoring of Novel Compressors
+* Experimental/Operational Modal Analysis of Truck Frames
+
+
+
+
+
+
+
+
