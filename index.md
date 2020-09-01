@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="assets/img/profile.jpg">
+<img class="profile-picture" src="assets/img/yuandong.jpg">
 
 Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Performance Engineering (CEPE) at University of Huddersfield. He has worked in the field of machinery condition monitoring for over seven years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
 
