@@ -20,6 +20,18 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 >  
 >  Development of Online Condition Monitoring System
 
+## Projects
+
+* Intelligent Condition Monitoring System of Marine Powertrains
+* Torsional Vibration Analysis of Diesel Engines
+* Vibration based Fault Detection and Diagnosis of Bearings and Gearboxes
+* Motor Current Signature Analysis for Fault Detection and Diagnosis of Induction Machines
+* Vibroacoustic Signals based Lubrication Condition Monitoring of Journal Bearings
+* Investigation of Tribological Responses between Piston-Rings and Cylinder-Liner using Acoustic Emissions
+* Airborne Acoustics based Condition Monitoring of Novel Compressors
+* Experimental/Operational Modal Analysis of Truck Frames
+
+
 ## Publications - Articles
 
 1. **Y. Xu**, D. Zhen, J. X. Gu, K. Rabeyee, F. Chu, F. Gu, and A. D. Ball, ‘Autocorrelated Envelopes for early fault detection of rolling bearings’, Mechanical Systems and Signal Processing, vol. 146, p. 106990, Jan. 2021, doi: 10.1016/j.ymssp.2020.106990.
@@ -62,19 +74,10 @@ Dr Yuandong Xu is a creative researcher in the Centre for Efficiency and Perform
 | Year | Award                               | Category    |
 |:-----|:------------------------------------|:------------|
 | 2018 | Best Paper in CM2018/MFPT2018       | Best Paper  |
-| 2016 | Vice Chancellor Research Fee Waiver | Scholarship |
+| 2016 | Vice Chancellor Scholarship         | Scholarship |
 
 
-## Projects
 
-* Intelligent Condition Monitoring System of Marine Powertrains
-* Torsional Vibration Analysis of Diesel Engines
-* Vibration based Fault Diagnosis of Bearings and Gearboxes
-* Motor Current Signature Analysis for Induction Machines
-* Vibroacoustic Signals based Lubrication Condition Monitoring of Journal Bearings
-* Investigation of Tribological Responses between Piston-Rings and Cylinder-Liner using Acoustic Emissions
-* Airborne Acoustics based Condition Monitoring of Novel Compressors
-* Experimental/Operational Modal Analysis of Truck Frames
 
 
 
