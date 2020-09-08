@@ -5,7 +5,7 @@ title: Contact
 nav_order: 1
 ---
 
-* Email: [yuandong.xu@hud.ac.uk](mailto:yuandong.xu@hud.ac.uk)
+* Email: [y.xu@imperial.ac.uk](mailto:y.xu@imperial.ac.uk)
 
 * Phone: [+44-123123](tel:+44-123123)
 
