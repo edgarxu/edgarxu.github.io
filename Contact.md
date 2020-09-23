@@ -13,13 +13,15 @@ nav_order: 1
 
 ## Mailing Address
 
-> T4/08c, Technology Building
+> City and Guilds Building
+>
+> South Kensington Campus
 > 
-> University of Huddersfield
+> Imperial College London
 > 
-> Huddersfield
+> London
 > 
-> HD1 3DH
+> SW7 2AZ
 > 
 > United Kingdom
 
