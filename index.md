@@ -12,13 +12,13 @@ Dr Yuandong Xu is a Research Associate in the Dynamics Group & Vibration Univers
 
 >  Fault Detection and Diagnosis
 >  
->  Vibroacoustic Testing and Analysis
->  
 >  Signal Processing
+>  
+>  Vibroacoustic Testing and Analysis
 >  
 >  Experimental/Operational Modal Analysis
 >  
->  Development of Online Condition Monitoring System
+>  Development of Online Condition Monitoring Systems
 
 ## Projects
 
@@ -34,39 +34,45 @@ Dr Yuandong Xu is a Research Associate in the Dynamics Group & Vibration Univers
 
 ## Publications - Articles
 
-1. **Y. Xu**, D. Zhen, J. X. Gu, K. Rabeyee, F. Chu, F. Gu, and A. D. Ball, ‘Autocorrelated Envelopes for early fault detection of rolling bearings’, Mechanical Systems and Signal Processing, vol. 146, p. 106990, Jan. 2021, doi: 10.1016/j.ymssp.2020.106990.
-2. **Y. Xu**, C. Fu, N. Hu, B. Huang, F. Gu, and A. D. Ball, ‘A phase linearisation–based modulation signal bispectrum for analysing cyclostationary bearing signals’, Structural Health Monitoring, p. 1475921720949827, Aug. 2020, doi: 10.1177/1475921720949827.
-3. C. Fu, **Y. Xu**, Y. Yang, K. Lu, F. Gu, and A. Ball, ‘Dynamics analysis of a hollow-shaft rotor system with an open crack under model uncertainties’, Communications in Nonlinear Science and Numerical Simulation, vol. 83, p. 105102, Apr. 2020, doi: 10.1016/j.cnsns.2019.105102.
-4. C. Fu, **Y. Xu**, Y. Yang, K. Lu, F. Gu, and A. Ball, ‘Response analysis of an accelerating unbalanced rotating system with both random and interval variables’, Journal of Sound and Vibration, vol. 466, p. 115047, Feb. 2020, doi: 10.1016/j.jsv.2019.115047.
-5. **Y. Xu**, B. Huang, Y. Yun, R. Cattley, F. Gu, and A. D. Ball, ‘Model based IAS analysis for fault detection and diagnosis of IC engine powertrains’, Energies, vol. 13, no. 3, p. 565, Jan. 2020, doi: 10.3390/en13030565.
-6. J. Wang, C. Zhang, X. Ma, Z. Wang, **Y. Xu**, and R. Cattley, ‘A Multivariate Statistics-Based Approach for Detecting Diesel Engine Faults with Weak Signatures’, Energies, vol. 13, no. 4, p. 873, Jan. 2020, doi: 10.3390/en13040873.
-7. L. Hu, **Y. Xu**, F. Gu, J. He, N. Hu, and A. Ball, ‘Autocorrelation Ensemble Average of Larger Amplitude Impact Transients for the Fault Diagnosis of Rolling Element Bearings’, Energies, vol. 12, no. 24, p. 4740, Dec. 2019, doi: 10.3390/en12244740.
-8. D. Zhen, J. Guo, **Y. Xu**, H. Zhang, and F. Gu, ‘A Novel Fault Detection Method for Rolling Bearings Based on Non-Stationary Vibration Signature Analysis’, Sensors, vol. 19, no. 18, p. 3994, Sep. 2019, doi: 10.3390/s19183994.
-9. Z. Wang, J. Yang, H. Li, D. Zhen, **Y. Xu**, and F. Gu, ‘Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis’, Energies, vol. 12, no. 17, p. 3279, Aug. 2019, doi: 10.3390/en12173279.
-10. P. A. V. Vuuren, **Y. Xu**, F. Gu, and A. D. Ball, ‘Monitoring gearbox oil viscosity by means of motor current signal analysis’, International Journal of Condition Monitoring, vol. 8, no. 1, pp. 30–35, Feb. 2018, doi: 10.1784/204764218822441979.
+1. **Xu Y**, Zhen D, Gu JX, Rabeyee K, Chu F, Gu F, et al. Autocorrelated Envelopes for early fault detection of rolling bearings. Mechanical Systems and Signal Processing 2021;146:106990. https://doi.org/10.1016/j.ymssp.2020.106990.
+2. **Xu Y**, Fu C, Hu N, Huang B, Gu F, Ball AD. A phase linearisation–based modulation signal bispectrum for analysing cyclostationary bearing signals. Structural Health Monitoring 2020:1475921720949827. https://doi.org/10.1177/1475921720949827.
+3. **Xu Y**, Huang B, Yun Y, Cattley R, Gu F, Ball AD. Model based IAS analysis for fault detection and diagnosis of IC engine powertrains. Energies 2020;13:565. https://doi.org/10.3390/en13030565.
+4. Wang J, Zhang C, Ma X, Wang Z, **Xu Y**, Cattley R. A Multivariate Statistics-Based Approach for Detecting Diesel Engine Faults with Weak Signatures. Energies 2020;13:873. https://doi.org/10.3390/en13040873.
+5. Fu C, **Xu Y**, Yang Y, Lu K, Gu F, Ball A. Response analysis of an accelerating unbalanced rotating system with both random and interval variables. Journal of Sound and Vibration 2020;466. https://doi.org/10.1016/j.jsv.2019.115047.
+6. Fu C, **Xu Y**, Yang Y, Lu K, Gu F, Ball A. Dynamics analysis of a hollow-shaft rotor system with an open crack under model uncertainties. Communications in Nonlinear Science and Numerical Simulation 2020;83. https://doi.org/10.1016/j.cnsns.2019.105102.
+7. Zhen D, Guo J, **Xu Y**, Zhang H, Gu F. A novel fault detection method for rolling bearings based on non-stationary vibration signature analysis. Sensors (Switzerland) 2019;19. https://doi.org/10.3390/s19183994.
+8. Wang Z, Yang J, Li H, Zhen D, **Xu Y**, Gu F. Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis. Energies 2019;12. https://doi.org/10.3390/en12173279.
+9. Hu L, **Xu Y**, Gu F, He J, Hu N, Ball A. Autocorrelation ensemble average of larger amplitude impact transients for the fault diagnosis of rolling element bearings. Energies 2019;12. https://doi.org/10.3390/en12244740.
+10. Vuuren PAV, **Xu Y**, Gu F, Ball AD. Monitoring gearbox oil viscosity by means of motor current signal analysis. International Journal of Condition Monitoring 2018;8:30–5. https://doi.org/10.1784/204764218822441979.
+
 
 ## Publications - Conferences
 
-1. C. Fu, **Y. Xu**, Y. Yang, F. Gu, and A. Ball, ‘The Uncertain Vibrations of a Rotor Operating with Angular Acceleration Based on Taylor Expansion’, in Advances in Asset Management and Condition Monitoring, Cham, 2020, pp. 1105–1113, doi: 10.1007/978-3-030-57745-2_91.
-2. **Y. Xu**, Y. Yun, F. Gu, and A. D. Ball, ‘Fault Detection and Diagnosis of IC Engine based Power Trains by IAS Analysis’, in Surveillance, Vishno and AVE conferences, Lyon, France, 2019.
-3. J. Ma, **Y. Xu**, Z. Shi, B. Huang, F. Gu, and A. D. Ball, ‘Experimental investigation of operational variables influence on the generation of acoustic emission in the shear of oil film’, in Proceedings of 4th International Conference on Maintenance Engineering, Dubai, United Arab Emirates, 2019.
-4. B. Huang, **Y. Xu**, H. Li, X. Zou, F. Gu, and A. D. Ball, ‘Fast Spectral Correlation of Motor Current Signals for Broken Rotor Bar Detection and Diagnosis’, in Proceedings of 4th International Conference on Maintenance Engineering, Dubai, United Arab Emirates, 2019.
-5. **Y. Xu**, J. Fei, Y. Yun, J. Wang, F. Gu, and A. D. Ball, ‘Modelling in-cylinder pressures for accurate simulations of instantaneous angular speed responses to combustion faults in an IC engine powertrain’, presented at the 16th International Conference on Condition Monitoring and Asset Management, CM 2019, 2019, doi: 10.1784/cm.2019.133.
-6. K. Rabeyee, **Y. Xu**, A. Alashter, F. Gu, and A. Ball, ‘A componential coding neural network based signal modelling for condition monitoring’, in COMADEM 2019, University of Huddersfield, 2019.
-7. K. Rabeyee, **Y. Xu**, F. Gu, and A. D. Ball, ‘A novel wavelet thresholding method for vibration data denoising and diagnostic feature enhancement in condition monitoring’, presented at the ICAC 2019 - 2019 25th IEEE International Conference on Automation and Computing, 2019, doi: 10.23919/IConAC.2019.8894986.
-8. K. Rabeyee, **Y. Xu**, S. Alabied, F. Gu, and A. D. Ball, ‘Extraction of information from vibration data using double density discrete wavelet analysis for condition monitoring’, presented at the 16th International Conference on Condition Monitoring and Asset Management, CM 2019, 2019, doi: 10.1784/cm.2019.110.
-9. **Y. Xu**, J. Fei, F. Gu, and A. D. Ball, ‘Monitoring the tribological behaviour of piston ring-cylinder liner in a four-cylinder diesel engine by using acoustic emission signals’, presented at the 15th International Conference on Condition Monitoring and Machinery Failure Prevention Technologies, CM 2018/MFPT 2018, 2018, pp. 508–521.
-10. K. Rabeyee, X. Tang, **Y. Xu**, D. Zhen, F. Gu, and A. D. Ball, ‘Diagnosing the change in the internal clearances of rolling element bearings based on vibration signatures’, presented at the ICAC 2018 - 2018 24th IEEE International Conference on Automation and Computing: Improving Productivity through Automation and Computing, 2018, doi: 10.23919/IConAC.2018.8749121.
-11. R. Appadoo, **Y. Xu**, F. Gu, and A. D. Ball, ‘Performance monitoring and fault diagnosis of vacuum pumps based on airborne sounds’, presented at the ICAC 2018 - 2018 24th IEEE International Conference on Automation and Computing: Improving Productivity through Automation and Computing, 2018, doi: 10.23919/IConAC.2018.8748969.
-12. **Y. Xu**, X. Tang, F. Gu, A. D. Ball, and J. X. Gu, ‘Early detection of rolling bearing faults using an auto-correlated envelope ensemble average’, in 2017 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–6, doi: 10.23919/IConAC.2017.8081993.
-13. X. Tang, **Y. Xu**, F. Gu, A. D. Ball, and G. Wang, ‘Fault detection of rolling element bearings using the frequency shift and envelope based compressive sensing’, in 2017 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–6, doi: 10.23919/IConAC.2017.8082063.
-14. O. Hamomd, S. Alabied, **Y. Xu**, A. Daraz, F. Gu, and A. Ball, ‘Vibration based centrifugal pump fault diagnosis based on modulation signal bispectrum analysis’, in 2017 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–5, doi: 10.23919/IConAC.2017.8082029.
-15. B. Elforjani, **Y. Xu**, K. Brethee, Z. Wu, F. Gu, and A. Ball, ‘Monitoring gearbox using a wireless temperature node powered by thermal energy harvesting module’, in 2017 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–6, doi: 10.23919/IConAC.2017.8081994.
-16. **Y. Xu**, L. Haiyang, D. Zhen, I. Rehab, F. Gu, and A. Ball, ‘Fault detection of rolling bearings using an ensemble average autocorrelation based stochastic subspace identification’, in Proceedings of 24th International Congress on Sound and Vibration, London, UK, 2017.
-17. **Y. Xu**, P. A. van Vuuren, X. Tan, F. Gu, and A. Ball, ‘A robust method to detect faults of rolling bearings using ensemble average autocorrelation based stochastic subspace identification’, in COMADEM 2017 Proceedings, Preston, UK, 2017.
-18. G. Qin, F. Gu, **Y. Xu**, F. Liu, and A. D. Ball, ‘Bogie speed estimation and signal source separation via rail vibration analysis’, in COMADEM 2017 Proceedings, Preston, UK, 2017.
-19. G. Li, F. Gu, N. Wei, **Y. Xu**, and A. Ball, ‘A validated finite element model for predicting dynamic responses of cylinder liners in an IC engine’, in Proceedings 22nd International Conference on Automation and Computing (ICAC), Essex, UK, 2016.
-20. N. Wei, F. Gu, T. Wang, G. Li, **Y. Xu**, L. Yang, and A. Ball, ‘Characterisation of acoustic emissions for the frictional effect in engines using wavelets based multi-resolution analysis’, in Proceedings of the 21st International Conference on Automation and Computing (ICAC), Glasgow, UK, 2015.
+1. Rabeyee K, **Xu Y**, Alashter A, Gu F, Ball AD. A Componential Coding Neural Network Based Signal Modelling for Condition Monitoring. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_47.
+2. Muo UE, **Xu Y**, Ball A, Gu F. Application of Wavelet Packet Transform and Envelope Analysis on Pressure Pulsations from a Reciprocating Compressor. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_44.
+3. Ma JJ, **Xu Y**, Liu F, Shi Z, Zhang H, Gu F, et al. Vibrations Based Lubricity Condition Monitoring of Journal Bearings. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_72.
+4. Han F, Wang H, Qiu C, **Xu Y**. A Hybrid Prognostics Approach for Motorized Spindle-Tool Holder Remaining Useful Life Prediction. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_114.
+5. Fu C, **Xu Y**, Yang Y, Gu F, Ball A. The Uncertain Vibrations of a Rotor Operating with Angular Acceleration Based on Taylor Expansion. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_91.
+6. Cao Y, Zeng K, Li S, Gu F, **Xu Y**, He B. Multiple-Model Fault Diagnosis Method for Gas Turbine Based on Soft Switch. vol. 166. 2020. https://doi.org/10.1007/978-3-030-57745-2_31.
+7. **Xu Y**, Yun Y, Gu F, Ball AD. Fault Detection and Diagnosis of IC Engine based Power Trains by IAS Analysis. Surveillance, Vishno and AVE conferences, Lyon, France: INSA-Lyon, Université de Lyon; 2019.
+8. Ma J, **Xu Y**, Shi Z, Huang B, Gu F, Ball AD. Experimental investigation of operational variables influence on the generation of acoustic emission in the shear of oil film. Proceedings of 4th International Conference on Maintenance Engineering, Dubai, United Arab Emirates: 2019.
+9. Huang B, **Xu Y**, Li H, Zou X, Gu F, Ball AD. Fast Spectral Correlation of Motor Current Signals for Broken Rotor Bar Detection and Diagnosis. Proceedings of 4th International Conference on Maintenance Engineering, Dubai, United Arab Emirates: 2019.
+10. **Xu Y**, Fei J, Yun Y, Wang J, Gu F, Ball AD. Modelling in-cylinder pressures for accurate simulations of instantaneous angular speed responses to combustion faults in an IC engine powertrain, 2019. https://doi.org/10.1784/cm.2019.133.
+11. Rabeyee K, **Xu Y**, Gu F, Ball AD. A novel wavelet thresholding method for vibration data denoising and diagnostic feature enhancement in condition monitoring, 2019. https://doi.org/10.23919/IConAC.2019.8894986.
+12. Rabeyee K, **Xu Y**, Alabied S, Gu F, Ball AD. Extraction of information from vibration data using double density discrete wavelet analysis for condition monitoring, 2019. https://doi.org/10.1784/cm.2019.110.
+13. **Xu Y**, Fei J, Gu F, Ball AD. Monitoring the tribological behaviour of piston ring-cylinder liner in a four-cylinder diesel engine by using acoustic emission signals, 2018, p. 508–21.
+14. Rabeyee K, Tang X, **Xu Y**, Zhen D, Gu F, Ball AD. Diagnosing the change in the internal clearances of rolling element bearings based on vibration signatures, 2018. https://doi.org/10.23919/IConAC.2018.8749121.
+15. Appadoo R, **Xu Y**, Gu F, Ball AD. Performance monitoring and fault diagnosis of vacuum pumps based on airborne sounds, 2018. https://doi.org/10.23919/IConAC.2018.8748969.
+16. **Xu Y**, Vuuren PA van, Tan X, Gu F, Ball A. A robust method to detect faults of rolling bearings using ensemble average autocorrelation based stochastic subspace identification. COMADEM 2017 Proceedings, Preston, UK: 2017.
+17. Qin G, Gu F, **Xu Y**, Liu F, Ball AD. Bogie speed estimation and signal source separation via rail vibration analysis. COMADEM 2017 Proceedings, Preston, UK: 2017.
+18. **Xu Y**, Tang X, Gu F, Ball AD, Gu JX. Early detection of rolling bearing faults using an auto-correlated envelope ensemble average, 2017. https://doi.org/10.23919/IConAC.2017.8081993.
+19. **Xu Y**, Li H, Zhen D, Rehab I, Gu F, Ball A. Fault detection of rolling bearings using an ensemble average autocorrelation based stochastic subspace identification, 2017.
+20. Tang X, **Xu Y**, Gu F, Ball AD, Wang G. Fault detection of rolling element bearings using the frequency shift and envelope based compressive sensing, 2017. https://doi.org/10.23919/IConAC.2017.8082063.
+21. Hamomd O, Alabied S, **Xu Y**, Daraz A, Gu F, Ball A. Vibration based centrifugal pump fault diagnosis based on modulation signal bispectrum analysis, 2017. https://doi.org/10.23919/IConAC.2017.8082029.
+22. Elforjani B, **Xu Y**, Brethee K, Wu Z, Gu F, Ball A. Monitoring gearbox using a wireless temperature node powered by thermal energy harvesting module, 2017. https://doi.org/10.23919/IConAC.2017.8081994.
+23. Li G, Gu F, Wei N, **Xu Y**, Ball AD, Wang T. A validated finite element model for predicting dynamic responses of cylinder liners in an IC engine, 2016, p. 126–31. https://doi.org/10.1109/IConAC.2016.7604906.
+24. Wei N, Gu F, Wang T, Li G, **Xu Y**, Yang L, et al. Characterisation of acoustic emissions for the frictional effect in engines using wavelets based multi-resolution analysis, 2015. https://doi.org/10.1109/IConAC.2015.7313961.
+
 
 
 ## Awards
