@@ -33,6 +33,8 @@ nav_order: 1
 * [ResearchGate](https://www.researchgate.net/profile/Yuandong_Xu3)
 * [Google Scholar](https://scholar.google.co.uk/citations?user=2jO5e3oAAAAJ&hl=en)
 * [ORCID iD](https://orcid.org/0000-0003-4259-4727)
+* [Publons](https://publons.com/researcher/3919577/yuandong-xu/)
 
+* [Imperial College Page](https://www.imperial.ac.uk/people/y.xu)
 
 [back](./)
