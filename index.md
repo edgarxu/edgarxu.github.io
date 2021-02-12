@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="assets/img/yuandong.jpg">
 
-Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imperial.ac.uk/dynamics) & Rolls-Royce [Vibration University Technology Centre (VUTC)](https://www.imperial.ac.uk/dynamics/vibration-utc/), Department of Mechanical Engineering at Imperial College London. He has worked in the field of machinery condition monitoring for over eight years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
+Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imperial.ac.uk/dynamics) & [Rolls-Royce Vibration University Technology Centre (VUTC)](https://www.imperial.ac.uk/dynamics/vibration-utc/), Department of Mechanical Engineering at Imperial College London. He has worked in the field of machinery condition monitoring for over eight years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 >  
 >  Development of Online Condition Monitoring Systems
 
-## Projects
+## Project Experience
 
 * Intelligent Condition Monitoring System of Marine Powertrains
 * Torsional Vibration Analysis of Diesel Engines
