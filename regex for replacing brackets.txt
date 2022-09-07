@@ -1,0 +1,20 @@
+find		(.*)(\[)(\d*)(\])
+
+
+replace		$1$3.
+
+
+
+
+
+    We are using regex capture groups to allow us to retain some parts of the search string whilst replacing other parts.
+
+    The first capture group (.*) searches for and captures anything preceeding the first ( character.
+
+    The second capture group (\() gets the left parenthesis - which we will replace with a {. Notice that the ( is escaped, because ( is an operator in regex
+
+    The third capture group (.*) grabs whatever is inside the parentheses - we will put that back again.
+
+    The final capture group (\)) grabs the ) char, which we swap out for a }
+
+    So, $2 and $4 capture groups contain the ( and ) characters, which we replace with literal { and } characters. (If we wanted to put back exactly what we had found, we would put: $1$2$3$4 as the replace text)
