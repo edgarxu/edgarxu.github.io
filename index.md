@@ -34,20 +34,24 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 
 ## Publications - Articles
 
-1. Fu C, Lu K, **Xu Y**, Yang Y, Gu FS, Chen Y. Dynamic analysis of geared transmission system for wind turbines with mixed aleatory and epistemic uncertainties. Appl Math Mech-Engl Ed. 2022 Feb 1;43(2):275–94. 
-2. **Xu Y**, Zhen D, Gu JX, Rabeyee K, Chu F, Gu F, et al. Autocorrelated Envelopes for early fault detection of rolling bearings. Mechanical Systems and Signal Processing. 2021 Jan 1;146:106990. 
-3. **Xu Y**, Tang X, Feng G, Wang D, Ashworth C, Gu F, et al. Orthogonal On-Rotor Sensing Vibrations for Condition Monitoring of Rotating Machines. Journal of Dynamics, Monitoring and Diagnostics [Internet]. 2021 Dec 20 [cited 2021 Dec 21]; Available from: https://ojs.istp-press.com/dmd/article/view/47
-4. **Xu Y**, Fu C, Hu N, Huang B, Gu F, Ball AD. A phase linearisation–based modulation signal bispectrum for analysing cyclostationary bearing signals. Structural Health Monitoring. 2021 May 1;20(3):1231–46. 
-5. Wei N, Chen Z, **Xu Y**, Gu F, Ball A. The investigation into the tribological impact of alternative fuels on engines based on acoustic emission. Energies. 2021 Jan;14(8):2315. 
-6. **Xu Y**, Huang B, Yun Y, Cattley R, Gu F, Ball AD. Model based IAS analysis for fault detection and diagnosis of IC engine powertrains. Energies. 2020 Jan;13(3):565. 
-7. Wang J, Zhang C, Ma X, Wang Z, **Xu Y**, Cattley R. A multivariate statistics-based approach for detecting diesel engine faults with weak signatures. Energies. 2020 Jan;13(4):873. 
-8. Fu C, **Xu Y**, Yang Y, Lu K, Gu F, Ball A. Response analysis of an accelerating unbalanced rotating system with both random and interval variables. Journal of Sound and Vibration. 2020 Feb 3;466:115047. 
-9. Fu C, **Xu Y**, Yang Y, Lu K, Gu F, Ball A. Dynamics analysis of a hollow-shaft rotor system with an open crack under model uncertainties. Communications in Nonlinear Science and Numerical Simulation. 2020 Apr 1;83:105102. 
-10. Zhen D, Guo J, **Xu Y**, Zhang H, Gu F. A novel fault detection method for rolling bearings based on non-stationary vibration signature analysis. Sensors. 2019 Jan;19(18):3994. 
-11. Wang Z, Yang J, Li H, Zhen D, **Xu Y**, Gu F. Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis. Energies. 2019 Jan;12(17):3279. 
-12. Hu L, **Xu Y**, Gu F, He J, Hu N, Ball A. Autocorrelation ensemble average of larger amplitude impact transients for the fault diagnosis of rolling element bearings. Energies. 2019 Jan;12(24):4740. 
-13. Vuuren PA, **Xu Y**, Gu F, Ball AD. Monitoring gearbox oil viscosity by means of motor current signal analysis. International Journal of Condition Monitoring. 2018;8(1):30–5. 
-14. Tang X, Wang X, Cattley R, Gu F, Ball AD. Energy harvesting technologies for achieving self-powered wireless sensor networks in machine condition monitoring: a review. Sensors. 2018 Dec;18(12):4113. 
+[1] Shen Yan, Haidong Shao, Yiming Xiao, Jian Zhou, **Yuandong Xu**, and Jiafu Wan, ‘Semi-supervised fault diagnosis of machinery using LPS-DGAT under speed fluctuation and extremely low labeled rates’, Advanced Engineering Informatics, vol. 53, p. 101648, Aug. 2022, doi: 10.1016/j.aei.2022.101648.
+[2] **Yuandong Xu**, Xiaoli Tang, Xiuquan Sun, Fengshou Gu, and Andrew D. Ball, ‘A Squeezed Modulation Signal Bispectrum Method for Motor Current Signals Based Gear Fault Diagnosis’, IEEE Transactions on Instrumentation and Measurement, pp. 1–1, 2022, doi: 10.1109/TIM.2022.3201549.
+[3] **Yuandong Xu**, Xiaoli Tang, Guojin Feng, Dong Wang, Craig Ashworth, Fengshou Gu, and Andrew Ball, ‘Orthogonal On-Rotor Sensing Vibrations for Condition Monitoring of Rotating Machines’, Journal of Dynamics, Monitoring and Diagnostics, vol. 1, no. 1, pp. 29–36, Mar. 2022, doi: 10.37965/jdmd.v2i2.47.
+[4] **Yuandong Xu**, Guojin Feng, Xiaoli Tang, Shixi Yang, Fengshou Gu, and Andrew D. Ball, ‘A Modulation Signal Bispectrum Enhanced Squared Envelope for the detection and diagnosis of compound epicyclic gear faults’, Structural Health Monitoring, p. 14759217221098576, May 2022, doi: 10.1177/14759217221098577.
+[5] Xiaoli Tang, **Yuandong Xu**, Xiuquan Sun, Yanfen Liu, Yu Jia, Fengshou Gu, and Andrew D. Ball, ‘Intelligent fault diagnosis of helical gearboxes with compressive sensing based non-contact measurements’, ISA Transactions, Jul. 2022, doi: 10.1016/j.isatra.2022.07.020.
+[6] Chao Fu, Kuan Lu, **Yuandong Xu**, Yongfeng Yang, Fengshou Gu, and Yushu Chen, ‘Dynamic analysis of geared transmission system for wind turbines with mixed aleatory and epistemic uncertainties’, Appl. Math. Mech.-Engl. Ed., vol. 43, no. 2, pp. 275–294, Feb. 2022, doi: 10.1007/s10483-022-2816-8.
+[7] **Yuandong Xu**, Dong Zhen, James Xi Gu, Khalid Rabeyee, Fulei Chu, Fengshou Gu, and Andrew D. Ball, ‘Autocorrelated Envelopes for early fault detection of rolling bearings’, Mechanical Systems and Signal Processing, vol. 146, p. 106990, Jan. 2021, doi: 10.1016/j.ymssp.2020.106990.
+[8] **Yuandong Xu**, Chao Fu, Ning Hu, Baoshan Huang, Fengshou Gu, and Andrew D. Ball, ‘A phase linearisation–based modulation signal bispectrum for analysing cyclostationary bearing signals’, Structural Health Monitoring, vol. 20, no. 3, pp. 1231–1246, May 2021, doi: 10.1177/1475921720949827.
+[9] Nasha Wei, Zhi Chen, **Yuandong Xu**, Fengshou Gu, and Andrew Ball, ‘The investigation into the tribological impact of alternative fuels on engines based on acoustic emission’, Energies, vol. 14, no. 8, p. 2315, Jan. 2021, doi: 10.3390/en14082315.
+[10] **Yuandong Xu**, Baoshan Huang, Yuliang Yun, Robert Cattley, Fengshou Gu, and Andrew D. Ball, ‘Model based IAS analysis for fault detection and diagnosis of IC engine powertrains’, Energies, vol. 13, no. 3, p. 565, Jan. 2020, doi: 10.3390/en13030565.
+[11] Jinxin Wang, Chi Zhang, Xiuzhen Ma, Zhongwei Wang, **Yuandong Xu**, and Robert Cattley, ‘A multivariate statistics-based approach for detecting diesel engine faults with weak signatures’, Energies, vol. 13, no. 4, p. 873, Jan. 2020, doi: 10.3390/en13040873.
+[12] Chao Fu, **Yuandong Xu**, Yongfeng Yang, Kuan Lu, Fengshou Gu, and Andrew Ball, ‘Response analysis of an accelerating unbalanced rotating system with both random and interval variables’, Journal of Sound and Vibration, vol. 466, p. 115047, Feb. 2020, doi: 10.1016/j.jsv.2019.115047.
+[13] Chao Fu, **Yuandong Xu**, Yongfeng Yang, Kuan Lu, Fengshou Gu, and Andrew Ball, ‘Dynamics analysis of a hollow-shaft rotor system with an open crack under model uncertainties’, Communications in Nonlinear Science and Numerical Simulation, vol. 83, p. 105102, Apr. 2020, doi: 10.1016/j.cnsns.2019.105102.
+[14] Dong Zhen, Junchao Guo, **Yuandong Xu**, Hao Zhang, and Fengshou Gu, ‘A novel fault detection method for rolling bearings based on non-stationary vibration signature analysis’, Sensors, vol. 19, no. 18, p. 3994, Jan. 2019, doi: 10.3390/s19183994.
+[15] Zuolu Wang, Jie Yang, Haiyang Li, Dong Zhen, **Yuandong Xu**, and Fengshou Gu, ‘Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis’, Energies, vol. 12, no. 17, p. 3279, Jan. 2019, doi: 10.3390/en12173279.
+[16] Lei Hu, **Yuandong Xu**, Fengshou Gu, Jing He, Niaoqing Hu, and Andrew Ball, ‘Autocorrelation ensemble average of larger amplitude impact transients for the fault diagnosis of rolling element bearings’, Energies, vol. 12, no. 24, p. 4740, Jan. 2019, doi: 10.3390/en12244740.
+[17] Pieter A. Vuuren, **Yuandong Xu**, Fengshou Gu, and Andrew D. Ball, ‘Monitoring gearbox oil viscosity by means of motor current signal analysis’, International Journal of Condition Monitoring, vol. 8, no. 1, pp. 30–35, 2018.
+
 
 
 
