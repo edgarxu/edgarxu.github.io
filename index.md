@@ -22,7 +22,7 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 
 ## Project Experience
 
-* Rolls-Royce [CORNERSTONE Project](https://cornerstone-partnership.org/)
+* Rolls-Royce CORNERSTONE Project
 * Intelligent Condition Monitoring System of Marine Powertrains
 * Torsional Vibration Analysis of Diesel Engines
 * Vibration based Fault Detection and Diagnosis of Bearings and Gearboxes
