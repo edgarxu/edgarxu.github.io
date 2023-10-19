@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="assets/img/yuandong.jpg">
 
-Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imperial.ac.uk/dynamics) & [Rolls-Royce Vibration University Technology Centre (VUTC)](https://www.imperial.ac.uk/vutc/), Department of Mechanical Engineering at Imperial College London. He has worked in the field of machinery condition monitoring for over eight years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
+Dr Yuandong Xu is a Professor in the Hunan Provincial Key Laboratory of Health Maintenance for Mechanical Equipment at Hunan University of Science and Technology. He has worked in the field of machinery condition monitoring for over nine years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
 
 ## Research Interests
 
@@ -22,8 +22,9 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 
 ## Project Experience
 
-* Rolls-Royce CORNERSTONE Project
-* Intelligent Condition Monitoring System of Marine Powertrains
+* NSFC Youth Project - Modulation Mechanism and Early Fault Diagnosis of Planetary Gears
+* Rolls-Royce CORNERSTONE Project - Dynamics of the Entire Turboshaft Engine
+* China Ship Building - Intelligent Condition Monitoring System of Marine Powertrains
 * Torsional Vibration Analysis of Diesel Engines
 * Vibration based Fault Detection and Diagnosis of Bearings and Gearboxes
 * Motor Current Signature Analysis for Fault Detection and Diagnosis of Induction Machines
@@ -68,7 +69,7 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 8. Fengxia Han, Hongjun Wang, Cheng Qiu, and **Yuandong Xu**, ‘A Hybrid Prognostics Approach for Motorized Spindle-Tool Holder Remaining Useful Life Prediction’, in Advances in Asset Management and Condition Monitoring, Cham, 2020, pp. 1385–1400. doi: 10.1007/978-3-030-57745-2_114.
 9. Chao Fu, **Yuandong Xu**, Yongfeng Yang, Fengshou Gu, and Andrew Ball, ‘The uncertain vibrations of a rotor operating with angular acceleration based on taylor expansion’, in Advances in Asset Management and Condition Monitoring, Cham, 2020, pp. 1105–1113. doi: 10.1007/978-3-030-57745-2_91.
 10. Yunpeng Cao, Kehui Zeng, Shuying Li, Fengshou Gu, **Yuandong Xu**, and Bo He, ‘Multiple-model fault diagnosis method for gas turbine based on soft switch’, in Advances in Asset Management and Condition Monitoring, Cham, 2020, pp. 363–375. doi: 10.1007/978-3-030-57745-2_31.
-11. **Yuandong Xu**, Yuliang Yun, Fengshou Gu, and Andrew D. Ball, ‘Fault Detection and Diagnosis of IC Engine based Power Trains by IAS Analysis’, Lyon, France, Jul. 2019. Accessed: Feb. 03, 2021. [Online]. Available: https://hal.archives-ouvertes.fr/hal-02188550
+11. **Yuandong Xu**, Yuliang Yun, Fengshou Gu, and Andrew D. Ball, ‘Fault Detection and Diagnosis of IC Engine based Power Trains by IAS Analysis’, Lyon, France, Jul. 2019. Accessed: Feb. 03, 2021.
 12. **Yuandong Xu**, Jingzhou Fei, Yuliang Yun, Jinxin Wang, Fengshou Gu, and Andrew D. Ball, ‘Modelling In-cylinder Pressures for Accurate Simulations of Instantaneous Angular Speed Responses to Combustion Faults in an IC Engine Powertrain’, presented at the 16th International Conference on Condition Monitoring and Machinery Failure Prevention Technologies, CM 2019/MFPT 2019, Glasgow, UK, Jun. 2019.
 13. Khalid Rabeyee, **Yuandong Xu**, Fengshou Gu, and Andrew D. Ball, ‘A novel wavelet thresholding method for vibration data denoising and diagnostic feature enhancement in condition monitoring’, in 25th International Conference on Automation and Computing (ICAC), 2019, pp. 1–6.
 14. Khalid Rabeyee, **Yuandong Xu**, Samir Alabied, Fengshou Gu, and Andrew Ball, ‘Extraction of information from vibration data using double density discrete wavelet analysis for condition monitoring’, presented at the 16th International Conference on Condition Monitoring and Machinery Failure Prevention Technologies, CM 2019/MFPT 2019, Glasgow, UK, Jun. 2019.
@@ -85,16 +86,6 @@ Dr Yuandong Xu is a Research Associate in the [Dynamics Group](https://www.imper
 25. Badradin Elforjani, **Yuandong Xu**, Khaldoon Brethee, Zhifei Wu, Fengshou Gu, and Andrew Ball, ‘Monitoring gearbox using a wireless temperature node powered by thermal energy harvesting module’, in 23rd International Conference on Automation and Computing (ICAC), 2017, pp. 1–6.
 26. Guoxing Li, Fengshou Gu, Nasha Wei, **Yuandong Xu**, Andrew D. Ball, and Tie Wang, ‘A validated finite element model for predicting dynamic responses of cylinder liners in an IC engine’, in 22nd International Conference on Automation and Computing (ICAC), 2016, pp. 126–131.
 27. Nasha Wei, Fengshou Gu, Tie Wang, Guoxing Li, **Yuandong Xu**, Longjie Yang, and Andrew D. Ball, ‘Characterisation of acoustic emissions for the frictional effect in engines using wavelets based multi-resolution analysis’, in 21st International Conference on Automation and Computing (ICAC), 2015, pp. 1–6.
-
-
-
-
-## Awards
-
-| Year | Award                               | Category    |
-|:-----|:------------------------------------|:------------|
-| 2018 | Best Paper in CM2018/MFPT2018       | Best Paper  |
-| 2016 | Vice Chancellor Scholarship         | Scholarship |
 
 
 
