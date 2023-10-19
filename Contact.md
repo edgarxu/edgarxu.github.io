@@ -5,26 +5,24 @@ title: Contact
 nav_order: 1
 ---
 
-* Email: [y.xu@imperial.ac.uk](mailto:y.xu@imperial.ac.uk)
+* Email: [yuandong.xu@hnust.edu.cn](mailto:yuandong.xu@hnust.edu.cn)
 
-* Phone: [+44-000000](tel:+44-000000)
+* Phone: [+86-000000](tel:+86-000000)
 
 ---
 
 ## Mailing Address
-> Room 562
+> Room 209
 >
-> City and Guilds Building
->
-> South Kensington Campus
+> Research Building
 > 
-> Imperial College London
+> Hunan University of Science and Technology
 > 
-> London
+> Taoyuan Road
 > 
-> SW7 2AZ
+> Xiangtan
 > 
-> United Kingdom
+> China
 
 ---
 

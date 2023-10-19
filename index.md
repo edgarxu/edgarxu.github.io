@@ -20,6 +20,7 @@ Dr Yuandong Xu is a Professor in the Hunan Provincial Key Laboratory of Health M
 >  
 >  Development of Online Condition Monitoring Systems
 
+
 ## Project Experience
 
 * NSFC Youth Project - Modulation Mechanism and Early Fault Diagnosis of Planetary Gears

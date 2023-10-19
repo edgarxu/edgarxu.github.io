@@ -5,16 +5,15 @@ title: CV
 nav_order: 2
 ---
 
-# CV
+## CV
 
 ## Education
 
-| Year      | University                        | Degree    |
-|:----------|:----------------------------------|:----------|
-| 2016-2023 | University of Huddersfield        | PhD       |
-| 2012-2015 | Taiyuan University of Technology  | MEng      |
-| 2008-2012 | Shandong Jiaotong University      | BEng      |
-
+| Year         | University                                   | Degree               |
+|:-------------|:---------------------------------------------|:---------------------|
+| 2016-2023    | University of Huddersfield                   | PhD                  |
+| 2012-2015    | Taiyuan University of Technology             | MEng                 |
+| 2008-2012    | Shandong Jiaotong University                 | BEng                 |
 
 
 ## Working
