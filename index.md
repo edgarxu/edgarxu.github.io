@@ -8,6 +8,7 @@ layout: default
 
 Dr Yuandong Xu is a Professor in the Hunan Provincial Key Laboratory of Health Maintenance for Mechanical Equipment at Hunan University of Science and Technology. He has worked in the field of machinery condition monitoring for over nine years in developing advanced signal processing methods, effective and efficient detection and diagnosis approaches, system identification methods, numerical and analytic models, experiment systems, data acquisition software and hardware, and online condition monitoring systems.
 
+
 ## Research Interests
 
 >  Fault Detection and Diagnosis
@@ -35,7 +36,6 @@ Dr Yuandong Xu is a Professor in the Hunan Provincial Key Laboratory of Health M
 * Experimental/Operational Modal Analysis of Truck Frames
 
 
-
 ## Publications - Articles
 
 1. Shen Yan, Haidong Shao, Yiming Xiao, Jian Zhou, **Yuandong Xu**, and Jiafu Wan, ‘Semi-supervised fault diagnosis of machinery using LPS-DGAT under speed fluctuation and extremely low labeled rates’, Advanced Engineering Informatics, vol. 53, p. 101648, Aug. 2022, doi: 10.1016/j.aei.2022.101648.
@@ -55,7 +55,6 @@ Dr Yuandong Xu is a Professor in the Hunan Provincial Key Laboratory of Health M
 15. Zuolu Wang, Jie Yang, Haiyang Li, Dong Zhen, **Yuandong Xu**, and Fengshou Gu, ‘Fault identification of broken rotor bars in induction motors using an improved cyclic modulation spectral analysis’, Energies, vol. 12, no. 17, p. 3279, Jan. 2019, doi: 10.3390/en12173279.
 16. Lei Hu, **Yuandong Xu**, Fengshou Gu, Jing He, Niaoqing Hu, and Andrew Ball, ‘Autocorrelation ensemble average of larger amplitude impact transients for the fault diagnosis of rolling element bearings’, Energies, vol. 12, no. 24, p. 4740, Jan. 2019, doi: 10.3390/en12244740.
 17. Pieter A. Vuuren, **Yuandong Xu**, Fengshou Gu, and Andrew D. Ball, ‘Monitoring gearbox oil viscosity by means of motor current signal analysis’, International Journal of Condition Monitoring, vol. 8, no. 1, pp. 30–35, 2018.
-
 
 
 ## Publications - Conferences
